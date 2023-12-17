@@ -1,0 +1,3 @@
+C:/Development/Projects_in_cplusplus/findAnagramBasicAbcd/cmake-build-debug/CMakeFiles/findAnagramBasicAbcd.dir
+C:/Development/Projects_in_cplusplus/findAnagramBasicAbcd/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Development/Projects_in_cplusplus/findAnagramBasicAbcd/cmake-build-debug/CMakeFiles/rebuild_cache.dir

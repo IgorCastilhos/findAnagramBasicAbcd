@@ -1,0 +1,5 @@
+# ninja log v5
+4	874	7245295923843479	CMakeFiles/findAnagramBasicAbcd.dir/main.c.obj	d461f03815082942
+0	1308	7245295928187533	CMakeFiles/findAnagramBasicAbcd.dir/main.cpp.obj	ccfeb0cd464fd764
+0	139	7245296015434156	build.ninja	b95b30c188a9d0f5
+2	88	7245296016890904	findAnagramBasicAbcd.exe	fff669e9be3b62c9
